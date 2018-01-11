@@ -1,0 +1,6 @@
+C:\Users\Lucy\Documents\SITE ET CERTIFICATS\APP CSharp\DemoMarineSolution\DemoMarine\bin\Debug\DemoMarine.exe.config
+C:\Users\Lucy\Documents\SITE ET CERTIFICATS\APP CSharp\DemoMarineSolution\DemoMarine\bin\Debug\DemoMarine.exe
+C:\Users\Lucy\Documents\SITE ET CERTIFICATS\APP CSharp\DemoMarineSolution\DemoMarine\bin\Debug\DemoMarine.pdb
+C:\Users\Lucy\Documents\SITE ET CERTIFICATS\APP CSharp\DemoMarineSolution\DemoMarine\obj\Debug\DemoMarine.csprojResolveAssemblyReference.cache
+C:\Users\Lucy\Documents\SITE ET CERTIFICATS\APP CSharp\DemoMarineSolution\DemoMarine\obj\Debug\DemoMarine.exe
+C:\Users\Lucy\Documents\SITE ET CERTIFICATS\APP CSharp\DemoMarineSolution\DemoMarine\obj\Debug\DemoMarine.pdb
